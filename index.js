@@ -26,3 +26,13 @@ function dec(a) {
  a-= 1
   return a
 }
+
+function inc(a) {
+ a+= 1
+  return a
+}
+
+function makeInt(a) {
+ a = parseInt(a)
+  return a
+}
