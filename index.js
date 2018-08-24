@@ -17,3 +17,12 @@ function divide(a, b) {
  a/= b
   return a
 }
+function inc(a) {
+ a+= 1
+  return a
+}
+
+function dec(a) {
+ a-= 1
+  return a
+}
