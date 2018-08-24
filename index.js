@@ -32,7 +32,7 @@ function inc(a) {
   return a
 }
 
-function makeInt(a) {
+function makeInt(a, 10) {
  a = parseInt(a)
   return a
 }
