@@ -5,5 +5,5 @@ b = 4
 
 function add() {
  a+= b
-  return b
+  return a
 }
